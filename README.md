@@ -1,7 +1,7 @@
 # gnome-applications-menu_zadanie
 development , ру , ru , all language , gnome-applications-menu , xml dtd
 
-New gnome-applications.menu 2022 ! 
+New gnome-applications.menu 2022 ! Ладно я облегчаю задачу в 2022 замените в тексте /home/griggorii/.local/share/ на /usr/share/applications/  
 
 Задание всем кто якобы причастен к разработке доказать что вы можете сделать меню для гнома вначале видео будет показано что это меню позволяет перетянуть ярлык на рабочий стол надо доделать только скрипт что бы все ярлыки подобных папок имели все переводы сами переводы возможно есть в какой то из схем сам фаил gnome-applications.menu я доделаю под это дело сам. 
 
